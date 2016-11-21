@@ -12,6 +12,7 @@
   "dependencies": {
     "dnode": "^1.2.2",
     "lodash": "^3.10.1",
+    "mongodb": "^2.2.11",
     "q": "^1.4.1"
   }
 }
